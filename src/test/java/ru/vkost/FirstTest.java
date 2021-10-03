@@ -7,6 +7,6 @@ public class FirstTest {
 
     @Test
     void firstTest(){
-        Assertions.assertFalse(false);
+        Assertions.assertTrue(false);
     }
 }
